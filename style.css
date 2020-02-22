@@ -1,0 +1,83 @@
+body{
+    margin: 0 auto;
+    font-family: 'Open Sans';
+}
+h2{
+    font-size: 30px;
+}
+h1{
+    font-size: 40px;
+    color: rgb(192, 4, 67) ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:80%;
+}
+.half-width h3{
+    font-size: 40px;
+}
+.half-width p{
+    color: gray;
+}
+
+.top{
+    margin-top: 30px;
+}
+
+.link-button{
+    
+    color: seashell;
+    text-decoration: none;
+    background-image: linear-gradient(salmon,  tomato);
+    padding: 10px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+section{
+    height: 600px;
+    padding-bottom: 100px;
+}
+.top-content{
+    background: url("header-bg.png") no-repeat;
+}
+.middle-content{
+    background: url("biography-bg.png") no-repeat;
+}
+.work img{
+    width:25%;
+    float: left;
+    padding-left: 5%;
+    margin: 0 auto;
+    
+}
+.lower-part{
+    text-align: center;
+}
+.testimonial-heading{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.testimonial-box{
+    background: #EC4F92;
+    width: 600px;
+    padding: 30px;
+    margin: 0 auto;
+    border-radius: 5px;
+    color: #fff;
+}
+.footer-area h2{
+    text-align:center
+}
+.lower-part {
+	margin-top: -309px;
+}
+footer p{
+    text-align: center;
+    color: gray;
+    margin-top: -80px;
+}
